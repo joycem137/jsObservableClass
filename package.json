@@ -1,0 +1,9 @@
+{
+  "name": "jsObservableClass",
+  "version": "1.0.0",
+  "description": "A super simple observable class.",
+  "repository": "git://github.com/joycem137/jsObservableClass.git",
+  "main": "index.js",
+  "author": "Joyce Mayorga",
+  "license": "ISC"
+}
